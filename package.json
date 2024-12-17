@@ -10,10 +10,10 @@
   "homepage": "https://ant.design",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ant-design/ant-design"
+    "url": "https://github.com/shuuxdev/ant-design"
   },
   "bugs": {
-    "url": "https://github.com/ant-design/ant-design/issues"
+    "url": "https://github.com/shuuxdev/ant-design/issues"
   },
   "keywords": [
     "ant",
@@ -324,7 +324,7 @@
     "xhr-mock": "^2.5.1"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://localhost:4873/"
   },
   "size-limit": [
     {
